@@ -7,7 +7,7 @@ int main()
     int a[n], xorr = 0;
         // xor of all elements
         // If one unique number is there then question will be finished with
-        // the for loop.
+        // the "for loop".
         for (int i = 0; i < n; i++)
         {
             cin>>a[i];
